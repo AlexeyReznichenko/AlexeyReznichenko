@@ -1,4 +1,4 @@
-### Here is What I'm Working On: 
+### Here is Some Information About Me: 
 
 - 🔭 I’m currently working on ... Vue.js project
 - 🌱 I’m currently learning ... Vue.js
