@@ -1,8 +1,8 @@
 ### Here is Some Information About Me: 
 
-- 🔭 I’m currently working on ... Nuxt 3 and Vue 3 project
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... Vue and Nuxt
+- 🔭 I’m currently working on ... Personal Porfolio Websites
+- 🌱 I’m currently learning ... Node.js
+- 👯 I’m looking to collaborate on ... React, Next.js, Vue.js, Nuxt.js and TypeScript
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Email: raleksey2005@gmail.com
 - 😄 Pronouns: ... He/Him
